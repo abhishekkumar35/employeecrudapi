@@ -3,9 +3,9 @@ Content-Type: application/json
 
 {
    
-    "firstName" : "Johnny",
-    "lastName" : "Restro",
-    "emailId" : "restro@gmail.com"
+    "firstName" : "Rakesh",
+    "lastName" : "Sinde",
+    "emailId" : "sinde@gmail.com"
 
 }
 ###
